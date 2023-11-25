@@ -1,6 +1,6 @@
-input * {
-    xkb_layout "latam,us"
-    xkb_options "caps:swapescape"
+input type:keyboard {
+    xkb_layout latam,us
+    xkb_options "grp:rctrl_toggle,caps:swapescape"
 }
 
 input "1739:32551:SYNA3255:00_06CB:7F27_Touchpad" {
