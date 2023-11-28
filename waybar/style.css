@@ -3,9 +3,12 @@
   font-size: 15;
 }
 
-.modules-right, .modules-left, .modules-center {
+.modules-center {
   margin-top: 6px;
   margin-bottom: 3px;
+}
+
+.modules-right, .modules-center, .modules-left {
   color: #fbf1c7;
 }
 
